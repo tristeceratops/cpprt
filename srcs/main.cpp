@@ -1,3 +1,5 @@
+//https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage
+
 #include "color.hpp"
 #include "vec3.hpp"
 #include "ray.hpp"
