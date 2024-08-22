@@ -1,6 +1,5 @@
 #pragma once
 
-#include "ray.hpp"
 
 class hit_record {
 	public :

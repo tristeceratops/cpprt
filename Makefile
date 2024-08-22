@@ -1,4 +1,4 @@
-NAME := rtx
+NAME := rtweekend
 SRCS := srcs
 FILES := $(wildcard $(SRCS)/*.cpp)
 OBJ := $(FILES:.cpp=.o)
