@@ -1,4 +1,5 @@
 #pragma once
+#include "rtweekend.hpp"
 
 class interval {
 	public:
